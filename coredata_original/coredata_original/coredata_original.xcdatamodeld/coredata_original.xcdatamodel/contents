@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="19H2026" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CountryData" representedClassName="CountryData" syncable="YES" codeGenerationType="class">
+        <attribute name="countryname" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Employee" representedClassName="Employee" syncable="YES" codeGenerationType="class">
+        <attribute name="empid" optional="YES" attributeType="String"/>
+        <attribute name="empname" optional="YES" attributeType="String"/>
+        <attribute name="empprofile" optional="YES" attributeType="String"/>
+        <attribute name="empsal" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="CountryData" positionX="-63" positionY="9" width="128" height="58"/>
+        <element name="Employee" positionX="-45" positionY="36" width="128" height="103"/>
+    </elements>
+</model>
